@@ -1,0 +1,1 @@
+1. saat pengisian reviews bisa dilakukan tanpa real user yang memiliki authentication seperti di file terlampir
